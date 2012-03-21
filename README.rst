@@ -2,7 +2,7 @@
 ENexmo Library 1.0.1 Manual 
 =========================
 ENexmo Library allows Yii programmers to use the Restful API offered by Mobile 
-Messaging provider `Nexmo <http://www.nexmo.com/index.html`_.
+Messaging provider `Nexmo <http://www.nexmo.com/index.html>`_.
 
 Nexmo is a cloud-based SMS API that lets you send and receive high volume 
 of messages at wholesale rates.
