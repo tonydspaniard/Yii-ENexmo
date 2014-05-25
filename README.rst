@@ -3,6 +3,7 @@ ENexmo Library 1.0.1 Manual
 =========================
 
 IMPORTANT: This library is not longer maintained. Its API has been deprecated. 
+=============
 
 ENexmo Library allows Yii programmers to use the Restful API offered by Mobile 
 Messaging provider `Nexmo <http://www.nexmo.com/index.html>`_.
